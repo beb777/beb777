@@ -16,6 +16,12 @@
 width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 <a href="https://t.me/armapy"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px"alt="Telegram"></a> &nbsp; &nbsp;
 </p>
+**Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 <!-- status codes -->
 <a align="center" href="https://beb777.github.io">
     <p align="center">
@@ -23,8 +29,3 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beb777&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
-**Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
