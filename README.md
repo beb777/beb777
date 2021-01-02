@@ -2,7 +2,7 @@
 
 ### about me in short 
 - 🌱 I’m currently learning - python, online courses 
-- 👯 I’m looking to collaborate with - for helps to learn more
+- 👯 I’m looking to collaborate with - you and open source community 
 - 💬 Ask me about - anything
 - 🥅 2021 Goal - improve my skill
 - 😄 Pronouns: she/her
