@@ -5,13 +5,17 @@
 - 👯 I’m looking to collaborate with - for helps to learn more
 - 💬 Ask me about - anything
 - 🥅 2021 Goal - improve my skill
+- 😄 Pronouns: she/her
 - ⚡ Fun fact - i like music
-<p>contact me:
+**comtact me:**
+
+<p align="left">
 <a href="https://www.instagram.com/bebo_isbeb/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
-<a href="https://twitter.com/beb_nature_fans"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg" width="35px" alt="Twitter">     </a> &nbsp; &nbsp;
-<a href="https://t.me/armapy"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px" alt="Telegram"></a> &nbsp; &nbsp;
+<a href="https://twitter.com/beb_nature_fans"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg"
+width="35px" alt="Twitter"></a> &nbsp; &nbsp;
+<a href="https://t.me/armapy"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px"alt="Telegram"></a> &nbsp; &nbsp;
 </p>
-### learning and a tools i use:
+**languages and a tools**
 <!-- programming langugae that i sudy now-->
 <p align="center">
   <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
