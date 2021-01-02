@@ -6,7 +6,8 @@
 - 💬 Ask me about - anything
 - 🥅 2021 Goal - improve my skill
 - 😄 Pronouns: she/her
-- ⚡ Fun fact - i like music
+- ⚡ Fun fact - i like music  
+
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
