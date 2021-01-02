@@ -17,4 +17,13 @@
 <p align="center">
   <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
   <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
- <p>
+ <p>## Connect with me:
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+<!-- Optional if you have blogs -->
+## Latest blog posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+[twitter]: https://twitter.com/beb_nature_fans
+[instagram]: https://www.instagram.com/bebo_isbeb/
