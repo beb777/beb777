@@ -7,6 +7,7 @@
 - 🥅 2021 Goal - improve my skill
 - 😄 Pronouns: she/her
 - ⚡ Fun fact - i like music
+
 **comtact me:**
 
 <p align="left">
@@ -23,7 +24,3 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
     </p>
 </a>
 
-<!-- Optional if you have blogs -->
-### Latest blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
