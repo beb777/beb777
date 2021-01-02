@@ -8,7 +8,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact - i like music
 
-**comtact me:**
+**you can reach me:**
 
 <p align="left">
 <a href="https://www.instagram.com/bebo_isbeb/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
