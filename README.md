@@ -37,3 +37,11 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
     <img src="https://github-readme-stats-teal-three.vercel.app/api/top-langs/?username=beb777&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
+**This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+**My Today Stats:**
+<!-- TODAY:START -->
+
+<!-- TODAY:END -->
+
