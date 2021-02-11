@@ -1,0 +1,19 @@
+name: today readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every minute
+    - corn: "* * * * *"
+  
+  
+ jobes:
+  update-readme:
+    name: update this repo's README
+    runs-on: ubumtu-latest
+    seteps:
+      - uses: actions/checkout@v2
+      - uses: beb777/today-readme@master
+        with:
+          TODAY_API_KEY: ${{secrets.TODAY_API_KEY}}
+          PREMIUM: ""
