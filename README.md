@@ -39,7 +39,8 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 </a>
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka-->  
+
 **My Today Stats:**
 <!-- TODAY:START -->
 
