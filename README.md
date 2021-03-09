@@ -13,7 +13,8 @@
 <a href="https://twitter.com/beb_nature_fans"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg"
 width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 <a href="https://t.me/armapy"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px"alt="Telegram"></a> &nbsp; &nbsp;
-</p>
+</p>  
+
 ![Profile views](https://gpvc.arturio.dev/beb777)  
 
 
