@@ -68,5 +68,8 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=beb777&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=beb777)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beb777)
+![Profile views](https://gpvc.arturio.dev/beb777)  
 
 
