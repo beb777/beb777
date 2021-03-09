@@ -67,7 +67,7 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 <a href="https://t.me/armapy"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px"alt="Telegram"></a> &nbsp; &nbsp;
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=beb77&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=beb777&show_icons=true)  
 
 
 **This Week I Spent My Time On:**
