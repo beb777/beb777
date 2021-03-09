@@ -53,14 +53,9 @@
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
----
 
-**Latest Blog Posts**
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-**you can reach me:**
 
 <p align="left">
 <a href="https://www.instagram.com/bebo_isbeb/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
@@ -71,6 +66,6 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=beb777&show_icons=true&theme=radical)   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=beb777&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beb777)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beb777&theme=radical)
 
 
