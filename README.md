@@ -11,6 +11,7 @@
 <a href="https://www.instagram.com/bebo_isbeb/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/beb_nature_fans"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg"
 width="35px" alt="Twitter"></a> &nbsp; &nbsp;
+
 <a href="https://t.me/armapy"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px"alt="Telegram"></a> &nbsp; &nbsp;
 </p>  
 
