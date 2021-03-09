@@ -69,7 +69,7 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 <a href="https://t.me/armapy"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px"alt="Telegram"></a> &nbsp; &nbsp;
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=beb777&show_icons=true&theme=radical)   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=beb777)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=beb777&show_icons=true&theme=radical)   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=beb777&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beb777)
 
