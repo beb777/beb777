@@ -70,12 +70,3 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=beb777&show_icons=true)  
 
 
-**This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->  
-
-**My Today Stats:**
-<!-- TODAY:START -->
-
-<!-- TODAY:END -->
-
