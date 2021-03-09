@@ -1,12 +1,12 @@
 ## Hi there am beb👋
 
-## About me 
+## About me  ![Profile views](https://gpvc.arturio.dev/beb777)  
 - 🌱 I’m currently learning - python, online courses 
 - 👯 I’m looking to collaborate with - you and open source community 
 - 💬 Ask me about - anything
 - 🥅 2021 Goal - improve my skill
 - 😄 Pronouns: she/her
-- ⚡ Fun fact - i like music   ![Profile views](https://gpvc.arturio.dev/beb777)  
+- ⚡ Fun fact - i like music  
 - 📫 How to reach me: 
 <p align="left">
 <a href="https://www.instagram.com/bebo_isbeb/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
@@ -14,9 +14,7 @@
 width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 <a href="https://t.me/armapy"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px"alt="Telegram"></a> &nbsp; &nbsp;
 </p>  
-
-![Profile views](https://gpvc.arturio.dev/beb777)  
-
+  
 
 **Languages and Tools:**  
 [<code>
