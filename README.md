@@ -6,7 +6,9 @@
 - 💬 Ask me about - anything
 - 🥅 2021 Goal - improve my skill
 - 😄 Pronouns: she/her
-- ⚡ Fun fact - i like music 
+- ⚡ Fun fact - i like music   
+![Profile views](https://gpvc.arturio.dev/beb777)  
+
 
 **Languages and Tools:**  
 [<code>
@@ -67,9 +69,8 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 <a href="https://t.me/armapy"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px"alt="Telegram"></a> &nbsp; &nbsp;
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=beb777&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=beb777)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=beb777&show_icons=true)   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=beb777)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beb777)
-![Profile views](https://gpvc.arturio.dev/beb777)  
 
 
