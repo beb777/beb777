@@ -15,7 +15,7 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 <a href="https://t.me/armapy"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px"alt="Telegram"></a> &nbsp; &nbsp;
 </p>  
 
-![alt text](/images/pro.png title="arma logo")
+![alt text](/images/pro.png)
 
 ## Languages and Tools:
 
