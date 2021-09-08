@@ -6,7 +6,7 @@
 - 💬 Ask me about - anything
 - 🥅 2021 Goal - improve my skill
 - 😄 Pronouns: she/her
-- ⚡ Fun fact - i like music  
+- ⚡ Fun fact - I like hicking 
 - 📫 How to reach me: 
 <p align="left">
 <a href="https://www.instagram.com/bebo_isbeb/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
