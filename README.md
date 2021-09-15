@@ -1,6 +1,6 @@
 ## Hi there am beb👋  
-[![instagram Follow](https://img.shields.io/instagram/follow/bebo_isbeb?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbebo_isbeb&screen_name=bebo_isbeb)
-
+[![instagram Follow](https://img.shields.io/instagram/follow/bebo_isbeb?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https://www.instagram.com/bebo_isbeb/&screen_name=bebo_isbeb)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/beb_is_beb)
 
 
 ## About me  ![Profile views](https://gpvc.arturio.dev/beb777)  
