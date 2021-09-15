@@ -64,9 +64,9 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 
 
 
-[![beb's GitHub stats](https://github-readme-stats.vercel.app/api?username=beb777&theme=onedark)](https://github.com/beb777/github-readme-stats)
 
-[![beb's GitHub stats](https://github-readme-stats.vercel.app/api?username=beb777&show_icons=true&theme=radical)](https://github.com/beb777/github-readme-stats)   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=beb777&theme=radical)  
+
+ [![beb's GitHub stats](https://github-readme-stats.vercel.app/api?username=beb777&theme=onedark)](https://github.com/beb777/github-readme-stats)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=beb777&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=beb777&theme=radical)
 
