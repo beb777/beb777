@@ -69,5 +69,5 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beb777&theme=tokyonight)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=beb77&repo=github-readme-stats)
+
 
