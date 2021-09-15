@@ -1,4 +1,7 @@
-## Hi there am beb👋
+## Hi there am beb👋  
+[![instagram Follow](https://img.shields.io/instagram/follow/bebo_isbeb?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbebo_isbeb&screen_name=bebo_isbeb)
+
+
 
 ## About me  ![Profile views](https://gpvc.arturio.dev/beb777)  
 - 🌱 I’m currently learning - python, online courses 
