@@ -21,7 +21,7 @@ width="35px" alt="Twitter"></a> &nbsp; &nbsp;
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
-[<code>
+
 
 
 
